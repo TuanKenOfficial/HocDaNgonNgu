@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">皮肤研究</string>
+    <string name="strTieuDeUserName">用户：</string>
+    <string name="strHintUserName">此处的用户</string>
+    <string name="strTieuDePassword">密码：</string>
+    <string name="strHintPassword">此处为密码</string>
+    <string name="strButtonLogin">登录</string>
+    <string name="strButtonThoat">退出</string>
+</resources>
